@@ -1,0 +1,32 @@
+C:\Users\danie\Documents\HoGent\Graduaat_1\Programmeren\SelfProject\SimpleCalculatorApp_Eldo\SimpleCalculatorApp_Eldo\bin\Debug\net8.0-windows\SimpleCalculatorApp_Eldo.exe
+C:\Users\danie\Documents\HoGent\Graduaat_1\Programmeren\SelfProject\SimpleCalculatorApp_Eldo\SimpleCalculatorApp_Eldo\bin\Debug\net8.0-windows\SimpleCalculatorApp_Eldo.deps.json
+C:\Users\danie\Documents\HoGent\Graduaat_1\Programmeren\SelfProject\SimpleCalculatorApp_Eldo\SimpleCalculatorApp_Eldo\bin\Debug\net8.0-windows\SimpleCalculatorApp_Eldo.runtimeconfig.json
+C:\Users\danie\Documents\HoGent\Graduaat_1\Programmeren\SelfProject\SimpleCalculatorApp_Eldo\SimpleCalculatorApp_Eldo\bin\Debug\net8.0-windows\SimpleCalculatorApp_Eldo.dll
+C:\Users\danie\Documents\HoGent\Graduaat_1\Programmeren\SelfProject\SimpleCalculatorApp_Eldo\SimpleCalculatorApp_Eldo\bin\Debug\net8.0-windows\SimpleCalculatorApp_Eldo.pdb
+C:\Users\danie\Documents\HoGent\Graduaat_1\Programmeren\SelfProject\SimpleCalculatorApp_Eldo\SimpleCalculatorApp_Eldo\obj\Debug\net8.0-windows\SimpleCalculatorApp_Eldo.frmCalculator.resources
+C:\Users\danie\Documents\HoGent\Graduaat_1\Programmeren\SelfProject\SimpleCalculatorApp_Eldo\SimpleCalculatorApp_Eldo\obj\Debug\net8.0-windows\SimpleCalculatorApp_Eldo.csproj.GenerateResource.cache
+C:\Users\danie\Documents\HoGent\Graduaat_1\Programmeren\SelfProject\SimpleCalculatorApp_Eldo\SimpleCalculatorApp_Eldo\obj\Debug\net8.0-windows\SimpleCalculatorApp_Eldo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\Documents\HoGent\Graduaat_1\Programmeren\SelfProject\SimpleCalculatorApp_Eldo\SimpleCalculatorApp_Eldo\obj\Debug\net8.0-windows\SimpleCalculatorApp_Eldo.AssemblyInfoInputs.cache
+C:\Users\danie\Documents\HoGent\Graduaat_1\Programmeren\SelfProject\SimpleCalculatorApp_Eldo\SimpleCalculatorApp_Eldo\obj\Debug\net8.0-windows\SimpleCalculatorApp_Eldo.AssemblyInfo.cs
+C:\Users\danie\Documents\HoGent\Graduaat_1\Programmeren\SelfProject\SimpleCalculatorApp_Eldo\SimpleCalculatorApp_Eldo\obj\Debug\net8.0-windows\SimpleCalculatorApp_Eldo.csproj.CoreCompileInputs.cache
+C:\Users\danie\Documents\HoGent\Graduaat_1\Programmeren\SelfProject\SimpleCalculatorApp_Eldo\SimpleCalculatorApp_Eldo\obj\Debug\net8.0-windows\SimpleCalculatorApp_Eldo.dll
+C:\Users\danie\Documents\HoGent\Graduaat_1\Programmeren\SelfProject\SimpleCalculatorApp_Eldo\SimpleCalculatorApp_Eldo\obj\Debug\net8.0-windows\refint\SimpleCalculatorApp_Eldo.dll
+C:\Users\danie\Documents\HoGent\Graduaat_1\Programmeren\SelfProject\SimpleCalculatorApp_Eldo\SimpleCalculatorApp_Eldo\obj\Debug\net8.0-windows\SimpleCalculatorApp_Eldo.pdb
+C:\Users\danie\Documents\HoGent\Graduaat_1\Programmeren\SelfProject\SimpleCalculatorApp_Eldo\SimpleCalculatorApp_Eldo\obj\Debug\net8.0-windows\SimpleCalculatorApp_Eldo.genruntimeconfig.cache
+C:\Users\danie\Documents\HoGent\Graduaat_1\Programmeren\SelfProject\SimpleCalculatorApp_Eldo\SimpleCalculatorApp_Eldo\obj\Debug\net8.0-windows\ref\SimpleCalculatorApp_Eldo.dll
+C:\Users\danie\OneDrive - Hogeschool Gent\Documents\HoGent\Graduaat_1\Programmeren\SelfProject\SimpleCalculatorApp_Eldo\SimpleCalculatorApp_Eldo\obj\Debug\net8.0-windows\SimpleCalculatorApp_Eldo.frmCalculator.resources
+C:\Users\danie\OneDrive - Hogeschool Gent\Documents\HoGent\Graduaat_1\Programmeren\SelfProject\SimpleCalculatorApp_Eldo\SimpleCalculatorApp_Eldo\obj\Debug\net8.0-windows\SimpleCalculatorApp_Eldo.csproj.GenerateResource.cache
+C:\Users\danie\OneDrive - Hogeschool Gent\Documents\HoGent\Graduaat_1\Programmeren\SelfProject\SimpleCalculatorApp_Eldo\SimpleCalculatorApp_Eldo\obj\Debug\net8.0-windows\SimpleCalculatorApp_Eldo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\OneDrive - Hogeschool Gent\Documents\HoGent\Graduaat_1\Programmeren\SelfProject\SimpleCalculatorApp_Eldo\SimpleCalculatorApp_Eldo\obj\Debug\net8.0-windows\SimpleCalculatorApp_Eldo.AssemblyInfoInputs.cache
+C:\Users\danie\OneDrive - Hogeschool Gent\Documents\HoGent\Graduaat_1\Programmeren\SelfProject\SimpleCalculatorApp_Eldo\SimpleCalculatorApp_Eldo\obj\Debug\net8.0-windows\SimpleCalculatorApp_Eldo.AssemblyInfo.cs
+C:\Users\danie\OneDrive - Hogeschool Gent\Documents\HoGent\Graduaat_1\Programmeren\SelfProject\SimpleCalculatorApp_Eldo\SimpleCalculatorApp_Eldo\obj\Debug\net8.0-windows\SimpleCalculatorApp_Eldo.csproj.CoreCompileInputs.cache
+C:\Users\danie\OneDrive - Hogeschool Gent\Documents\HoGent\Graduaat_1\Programmeren\SelfProject\SimpleCalculatorApp_Eldo\SimpleCalculatorApp_Eldo\obj\Debug\net8.0-windows\SimpleCalculatorApp_Eldo.dll
+C:\Users\danie\OneDrive - Hogeschool Gent\Documents\HoGent\Graduaat_1\Programmeren\SelfProject\SimpleCalculatorApp_Eldo\SimpleCalculatorApp_Eldo\obj\Debug\net8.0-windows\SimpleCalculatorApp_Eldo.pdb
+C:\Users\danie\OneDrive - Hogeschool Gent\Documents\HoGent\Graduaat_1\Programmeren\SelfProject\SimpleCalculatorApp_Eldo\SimpleCalculatorApp_Eldo\bin\Debug\net8.0-windows\SimpleCalculatorApp_Eldo.exe
+C:\Users\danie\OneDrive - Hogeschool Gent\Documents\HoGent\Graduaat_1\Programmeren\SelfProject\SimpleCalculatorApp_Eldo\SimpleCalculatorApp_Eldo\bin\Debug\net8.0-windows\SimpleCalculatorApp_Eldo.deps.json
+C:\Users\danie\OneDrive - Hogeschool Gent\Documents\HoGent\Graduaat_1\Programmeren\SelfProject\SimpleCalculatorApp_Eldo\SimpleCalculatorApp_Eldo\bin\Debug\net8.0-windows\SimpleCalculatorApp_Eldo.runtimeconfig.json
+C:\Users\danie\OneDrive - Hogeschool Gent\Documents\HoGent\Graduaat_1\Programmeren\SelfProject\SimpleCalculatorApp_Eldo\SimpleCalculatorApp_Eldo\bin\Debug\net8.0-windows\SimpleCalculatorApp_Eldo.dll
+C:\Users\danie\OneDrive - Hogeschool Gent\Documents\HoGent\Graduaat_1\Programmeren\SelfProject\SimpleCalculatorApp_Eldo\SimpleCalculatorApp_Eldo\bin\Debug\net8.0-windows\SimpleCalculatorApp_Eldo.pdb
+C:\Users\danie\OneDrive - Hogeschool Gent\Documents\HoGent\Graduaat_1\Programmeren\SelfProject\SimpleCalculatorApp_Eldo\SimpleCalculatorApp_Eldo\obj\Debug\net8.0-windows\refint\SimpleCalculatorApp_Eldo.dll
+C:\Users\danie\OneDrive - Hogeschool Gent\Documents\HoGent\Graduaat_1\Programmeren\SelfProject\SimpleCalculatorApp_Eldo\SimpleCalculatorApp_Eldo\obj\Debug\net8.0-windows\SimpleCalculatorApp_Eldo.genruntimeconfig.cache
+C:\Users\danie\OneDrive - Hogeschool Gent\Documents\HoGent\Graduaat_1\Programmeren\SelfProject\SimpleCalculatorApp_Eldo\SimpleCalculatorApp_Eldo\obj\Debug\net8.0-windows\ref\SimpleCalculatorApp_Eldo.dll
